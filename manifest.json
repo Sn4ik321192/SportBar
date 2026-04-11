@@ -1,0 +1,22 @@
+{
+  "name": "Lee Dodo",
+  "short_name": "Lee Dodo",
+  "description": "Система учета заказов, чеков и таймеров для Lee Dodo Sport Bar",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071a12",
+  "theme_color": "#071a12",
+  "icons": [
+  {
+    "src": "./icons/icon-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "./icons/icon-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+]
+}
