@@ -34,7 +34,8 @@ const MENU_DATA = [
             { name: "Grimbergen 0.33", price: 40, unit: "бут." },
             { name: "Львовское мягкое 0.5", price: 30, unit: "бут." },
             { name: "Роберт Домс 0.5", price: 30, unit: "бут." },
-            { name: "Туборг 0.5", price: 35, unit: "бут." }
+            { name: "Туборг 0.5", price: 35, unit: "бут." },
+            { name: "Garage", price: 50, unit: "бут." }
         ]
     },
     {
@@ -43,6 +44,7 @@ const MENU_DATA = [
             { name: "Шкура свиная", price: 60, unit: "уп." },
             { name: "Карпачо", price: 60, unit: "уп." },
             { name: "Ушки", price: 60, unit: "уп." },
+            { name: "Сыр косичка", price: 50, unit: "уп." },
             { name: "Орешки / гренки (доплата)", price: 25, unit: "порц." }
         ]
     },
@@ -55,14 +57,15 @@ const MENU_DATA = [
             { name: "Drive Energy", price: 20, unit: "шт" },
             { name: "CocaCola", price: 15, unit: "шт" },
             { name: "San Pellegrino", price: 25, unit: "шт" },
-            { name: "Nordica", price: 15, unit: "шт" }
+            { name: "Nordica", price: 15, unit: "шт" },
+            { name: "Letto", price: 15, unit: "шт" }
         ]
     },
     {
         category: "Горячие напитки",
         items: [
-            { name: "Чай", price: 35, unit: "шт" },
-       ]
+            { name: "Чай", price: 35, unit: "шт" }
+        ]
     }
 ];
 
