@@ -58,9 +58,9 @@ const MENU_DATA = [
             { name: "CocaCola", price: 15, unit: "шт" },
             { name: "San Pellegrino", price: 25, unit: "шт" },
             { name: "Nordica", price: 15, unit: "шт" },
-            { name: "Letto", price: 15, unit: "шт" }
-            { name: "Холодный чай", price: 25, unit: "шт" }
-            { name: "Энергетик", price: 20, unit: "шт" }
+            { name: "Letto", price: 15, unit: "шт" },
+            { name: "Холодный чай", price: 25, unit: "шт" },
+            { name: "Энергетик", price: 20, unit: "шт" },
         ]
     },
     {
