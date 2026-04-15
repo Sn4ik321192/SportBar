@@ -94,9 +94,11 @@ const MENU_BY_SYSTEM = {
             ]
         },
         {
-            category: "Вода",
+            category: "Холодные напитки",
             items: [
                 { name: "Сок Campa", price: 30, unit: "шт" },
+                { name: "Ice Tea", price: 25, unit: "шт" },
+                { name: "Energy Drink", price: 20, unit: "шт" },
                 { name: "MaxSpeed 0.25", price: 20, unit: "шт" },
                 { name: "MaxSpeed 0.5", price: 30, unit: "шт" },
                 { name: "Drive Energy", price: 20, unit: "шт" },
