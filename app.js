@@ -86,6 +86,7 @@ const MENU_BY_SYSTEM = {
         {
             category: "Мясо, закуски",
             items: [
+                { name: "Вяленая рыба", price: 40, unit: "уп." },
                 { name: "Шкура свиная", price: 60, unit: "уп." },
                 { name: "Карпачо", price: 60, unit: "уп." },
                 { name: "Ушки", price: 60, unit: "уп." },
