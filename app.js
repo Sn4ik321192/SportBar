@@ -119,6 +119,12 @@ const MENU_BY_SYSTEM = {
         {
             category: "Горячие напитки",
             items: [
+                { name: "Американо", price: 25 },
+                { name: "Эспрессо", price: 20 },
+                { name: "Капучино", price: 28 },
+                { name: "Латте Макиато", price: 30 },
+                { name: "Флэт Уайт", price: 35 },
+                { name: "Двойной эспрессо", price: 25 },
                 { name: "Чай", price: 35, unit: "шт" }
             ]
         }
