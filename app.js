@@ -104,6 +104,7 @@ const MENU_BY_SYSTEM = {
         {
             category: "Холодные напитки",
             items: [
+                { name: "Freşa", price: 20, unit: "шт" },
                 { name: "Сок Campa", price: 30, unit: "шт" },
                 { name: "Ice Tea", price: 25, unit: "шт" },
                 { name: "Energy Drink", price: 20, unit: "шт" },
